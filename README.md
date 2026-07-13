@@ -14,3 +14,4 @@ Link to Code: https://github.com/rushil070/Onekey
 - A toggle background button is present which can switch between two backgrounds.
 - Fast and slow mode buttons are present that can increase or decrease the speed of the moving base.
 - An instruction window is presented before starting the game.
+- Land at the 5 or 10 second mark to have a successful mission.
